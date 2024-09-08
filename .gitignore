@@ -1,0 +1,4 @@
+*.log
+!vip.log
+nodejs_packs/
+yale.txt
